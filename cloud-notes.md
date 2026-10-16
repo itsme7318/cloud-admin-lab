@@ -8,3 +8,4 @@ Monitoring gives administrators visibility into performance, availability, secur
 
 ## Cost Optimization
 Cost optimization involves selecting appropriate services, monitoring usage, and removing unused resources.
+
