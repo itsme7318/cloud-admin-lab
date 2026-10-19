@@ -9,3 +9,4 @@ Monitoring helps cloud administrators track system health, performance, availabi
 
 ## Cost Optimization
 Cost optimization involves selecting appropriate services, monitoring usage, and removing unused resources.
+
