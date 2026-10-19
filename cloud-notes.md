@@ -10,3 +10,4 @@ Configure alerts for important thresholds and investigate unexpected changes pro
 
 ## Cost Optimization
 Cost optimization involves selecting appropriate services, monitoring usage, and removing unused resources.
+Set budgets and spending alerts, review cost reports, and right-size resources regularly.
